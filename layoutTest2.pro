@@ -20,3 +20,5 @@ HEADERS  += mainwindow.h \
     thumbnailiconprovider.h
 
 FORMS    += mainwindow.ui
+
+CONFIG  += static
